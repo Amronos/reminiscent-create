@@ -1,0 +1,13 @@
+name = "Radium"
+filename = "radium-mc1.20.1-0.12.3+git.e2cf570.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2gvRmQXx/versions/cLwWyDwB/radium-mc1.20.1-0.12.3%2Bgit.e2cf570.jar"
+hash-format = "sha1"
+hash = "537aae436fb4ddee32c53112ceddcd4aae26aba0"
+
+[update]
+[update.modrinth]
+mod-id = "2gvRmQXx"
+version = "cLwWyDwB"

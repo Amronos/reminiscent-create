@@ -1,0 +1,13 @@
+name = "New Shield Variants"
+filename = "newshieldvariants-merged-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7458b9a9414353c46ef6d083c6988786aa4ba224"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5135594
+project-id = 884272

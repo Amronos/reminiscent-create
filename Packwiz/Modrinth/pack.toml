@@ -1,0 +1,17 @@
+name = "Reminiscent Create"
+author = "Amronos"
+version = "4.0.0"
+description = "[1.20.1] A modpack that hopes to provide an epic Create experience with all your favorite Create add-ons, Magic Mods, and many vanilla+ mods, while also keeping optimization in mind."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ae35a2447a5240d680648ce08b90860944f4d20790943b772e8b8756a94c1277"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "global_packs/required_data"

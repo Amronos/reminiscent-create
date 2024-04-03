@@ -1,0 +1,13 @@
+name = "Structure Gel API"
+filename = "structure_gel-1.20.1-2.16.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T8TGycIQ/versions/FQtCiGpd/structure_gel-1.20.1-2.16.1.jar"
+hash-format = "sha1"
+hash = "454277fac79d9a866717b811de9041b7723fb60e"
+
+[update]
+[update.modrinth]
+mod-id = "T8TGycIQ"
+version = "FQtCiGpd"
