@@ -1,11 +1,10 @@
 # Reminiscent Create
  
 A modpack that hopes to provide an epic Create experience with all your favorite Create add-ons, Magic Mods, and many vanilla+ mods, while also keeping optimization in mind.
-<br>
+
 <br>
 
 ## This Modpack Contains:
-<br>
 🔧 30+ create addons
 <br>
 <br>
@@ -31,13 +30,12 @@ A modpack that hopes to provide an epic Create experience with all your favorite
 <br>
 <br>
 ⚙ Many QOL mods.
-
 <br>
 <br>
 
 *Please go to the discord server or the github issues to give all mod suggestions and report any issues with the modpack.*
 
-<br><br>
+<br>
 
 ## Installation:
 It is recommended to install the modpack using the Modrinth Launcher.<br>
