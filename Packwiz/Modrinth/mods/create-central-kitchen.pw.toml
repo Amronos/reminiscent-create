@@ -1,13 +1,13 @@
 name = "Create Central Kitchen"
-filename = "create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.11.b.jar"
+filename = "create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/btq68HMO/versions/C2LdnrYs/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.11.b.jar"
+url = "https://cdn.modrinth.com/data/btq68HMO/versions/MX3EE060/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar"
 hash-format = "sha1"
-hash = "bb7e2badfb641f4494122ab1f274c680d299239e"
+hash = "92f89bdf6868c2f2b44e8a7acdc0da4be108ba1b"
 
 [update]
 [update.modrinth]
 mod-id = "btq68HMO"
-version = "C2LdnrYs"
+version = "MX3EE060"

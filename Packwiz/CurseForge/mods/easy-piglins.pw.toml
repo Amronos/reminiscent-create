@@ -1,13 +1,13 @@
 name = "Easy Piglins"
-filename = "easy-piglins-forge-1.20.1-1.0.3.jar"
+filename = "easy-piglins-forge-1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "305fa65c6449bc7a52d79c7aa43f5ef5355b743d"
+hash = "53a8402b9f6853cbd73f10d5bc97ec823b449e5e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4973499
+file-id = 5240118
 project-id = 419372

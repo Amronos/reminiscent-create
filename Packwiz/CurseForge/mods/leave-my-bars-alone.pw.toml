@@ -1,6 +1,6 @@
 name = "Leave My Bars Alone"
 filename = "LeaveMyBarsAlone-v8.0.0-1.20.1-Forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

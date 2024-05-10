@@ -5,7 +5,7 @@ A modpack that hopes to provide an epic Create experience with all your favorite
 <br>
 
 ## This Modpack Contains:
-🔧 30+ create addons
+🔧 30+ create addons with compatibility features between them using [Create: Addon Compatibility](https://modrinth.com/mod/create-addon-compatibility)
 <br>
 <br>
 📖 No quests or a specific progression path, you can do whatever you want.
@@ -70,17 +70,15 @@ All credits go to the separate mod/datapack/resourcepack/shader developers, they
 - [Bad Packets](https://modrinth.com/mod/ftdbN0KK) by deirn
 - [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
 - [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) by Gaz
-- [Better F3](https://modrinth.com/mod/V8TerSIX) by chpas
+- [BetterF3](https://modrinth.com/mod/V8TerSIX) by TreyRuffy, cominixo
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) by Darkhax
 - [Botarium](https://modrinth.com/mod/2u6LRnMa) by CodexAdrian
 - [Caelus API](https://modrinth.com/mod/40FYwb4z) by C4
-- [Cataclysm Mod](https://modrinth.com/mod/46KJle7n) by L_Ender
 - [Catalogue](https://www.curseforge.com/projects/459701) by MrCrayfish
 - [Chefs Delight](https://modrinth.com/mod/pvcsfne4) by Redstone Games
 - [Chipped](https://modrinth.com/mod/BAscRYKm) by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/fgmhI8kH) by ChoiceTheorem
 - [CIT Resewn](https://www.curseforge.com/projects/912099) by SHsuperCM, Asek3,Tfarcenim
-- [Citadel](https://modrinth.com/mod/jJfV67b1) by Alexthe666
 - [Cloth Config v10 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) by Jaredlll08
 - [Collective](https://modrinth.com/mod/e0M1UDsY) by Rick South
@@ -104,6 +102,7 @@ All credits go to the separate mod/datapack/resourcepack/shader developers, they
 - [Create Stuff & Additions](https://modrinth.com/mod/aq9qUUQG) by Furti_Two
 - [Create Track Map](https://modrinth.com/mod/gxoNIjg6) by LittleChaSiu
 - [Create Utilities](https://modrinth.com/mod/PRHeWeBs) by Duquee_
+- [Create: Addon Compatibility](https://modrinth.com/mod/create-addon-compatibility) by Amronos
 - [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv) by Alexander Weimer
 - [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO) by LimonBlaze, MarbleGate and Etherwood
 - [Create: Connected](https://modrinth.com/mod/Vg5TIO6d) by Lysine
@@ -114,8 +113,7 @@ All credits go to the separate mod/datapack/resourcepack/shader developers, they
 - [Create: More Drill Heads](https://modrinth.com/mod/9MEmQKkF) by Forsteri
 - [Create: New Age](https://modrinth.com/mod/FTeXqI9v) by Antarctic Gardens
 - [Create: Power Loader](https://modrinth.com/mod/wPQ6GgFE) by Lysine
-- [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) by The Railways Team
-- [Create: Structures](https://modrinth.com/mod/IAnP4np7) by FusionSwarly
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) by The Railways Teams
 - [Create: The Factory Must Grow](https://modrinth.com/mod/USgVjXsk) by DrMangoTea, Pepa, Milky, Luna
 - [create: things and misc](https://modrinth.com/mod/uWrs8XlB) by To0pa, Unusual Squad, MCreator
 - [Create: Vintage Improvements](https://modrinth.com/mod/S27aYArf) by Negodya1
@@ -130,6 +128,10 @@ All credits go to the separate mod/datapack/resourcepack/shader developers, they
 - [Easy Villagers](https://modrinth.com/mod/Kaov2qgi) by Max Henkel
 - [Embeddium Extra](https://modrinth.com/mod/oY2B1pjg) by dima_dencep, FlashyReese
 - [Embeddium](https://modrinth.com/mod/sk9rgfiA) by embeddedt
+- [EMI](https://modrinth.com/mod/emi) by Emi
+- [EMIffect](https://modrinth.com/mod/emiffect) by Flamarine
+- [EMI Loot](https://modrinth.com/mod/emi-loot) by fzzyhmstrs, gayasslily
+- [EMI Trades](https://modrinth.com/mod/emitrades) by Flamarine
 - [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) by Darkhax
 - [End's Delight](https://modrinth.com/mod/yHN0njMr) by FoggyHillside
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
@@ -137,6 +139,7 @@ All credits go to the separate mod/datapack/resourcepack/shader developers, they
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
 - [Epic Samurai](https://modrinth.com/mod/lMWJDrbO) by epicsamuraisareus
 - [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) by ChaosTheDude
+- [Eureka](https://modrinth.com/mod/eureka) by rubydesic, millennIumAMbiguity
 - [Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) by Rabbitminers
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) by vectorwing
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) by malte0811
@@ -222,12 +225,12 @@ All credits go to the separate mod/datapack/resourcepack/shader developers, they
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) by Apollo
 - [TerraBlender](https://modrinth.com/mod/kkmrDlKT) by Adubbz
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) by Stardust Labs
-- [TexTrue's Embeddium Options](https://modrinth.com/mod/S1tndFDa) by TexTrue, TexTrueStudio
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy) by tom5454
 - [Towns and Towers](https://modrinth.com/mod/DjLobEOy) by Kubek, Biban_Auriu, Cristelknight
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) by Tiviacz1337
 - [Twigs](https://modrinth.com/mod/RG50cUrX) by Ninni
 - [Ultris: Boss Expansion](https://modrinth.com/mod/tA7mQv7R) by LimeSplatus
+- [Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies) by rubydesic
 - [VillagersPlus](https://modrinth.com/mod/oHGMwNDR) by Lion
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) by BlayTheNinth
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) by xaero96

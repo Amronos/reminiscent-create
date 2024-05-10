@@ -1,13 +1,13 @@
 name = "Reminiscent Create"
 author = "Amronos"
-version = "4.0.0"
+version = "4.0.3"
 description = "[1.20.1] A modpack that hopes to provide an epic Create experience with all your favorite Create add-ons, Magic Mods, and many vanilla+ mods, while also keeping optimization in mind."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b381b23464ae01030667525f0cc0ad6981e5a71c5827141d118c650a658733ec"
+hash = "b7cb899be8efdb083684440be61fe99408448fd4c638cd7e0168136a15865d4e"
 
 [versions]
 forge = "47.2.0"

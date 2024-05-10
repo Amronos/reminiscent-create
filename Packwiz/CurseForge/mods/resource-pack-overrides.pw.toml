@@ -1,6 +1,6 @@
 name = "Resource Pack Overrides [Forge & Fabric]"
 filename = "ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
