@@ -1,13 +1,13 @@
 name = "Better Compatibility Checker"
-filename = "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
+filename = "BetterCompatibilityChecker-neo-4.0.8+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/YLJKBPTh/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/BtXREwmT/BetterCompatibilityChecker-neo-4.0.8%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae"
+hash = "d65a01789a3a6b6b0763a576c00b93b4da210059"
 
 [update]
 [update.modrinth]
 mod-id = "KJhXPbHQ"
-version = "YLJKBPTh"
+version = "BtXREwmT"

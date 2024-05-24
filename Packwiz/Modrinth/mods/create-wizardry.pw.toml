@@ -1,0 +1,13 @@
+name = "Create: Wizardry"
+filename = "create_wizardry-1.20.1-hahafunny-2024.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/p1v3RwSC/create_wizardry-1.20.1-hahafunny-2024.jar"
+hash-format = "sha1"
+hash = "f8a6ac3f46447a3f3a1690c0ec891b04d79eced7"
+
+[update]
+[update.modrinth]
+mod-id = "OeGdeWEj"
+version = "p1v3RwSC"
