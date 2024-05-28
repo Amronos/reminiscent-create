@@ -5,6 +5,18 @@ file = "configureddefaults/config/bcc-common.toml"
 hash = "c656dc3866a5a2682173786f04bee44942a5b3ee3a3480956f9df8ea69892a5e"
 
 [[files]]
+file = "configureddefaults/config/starterkit.json5"
+hash = "ed18501fad8911026af6621ab5a90382a195a915dc547d2a988d1fd9992f9ddf"
+
+[[files]]
+file = "configureddefaults/config/starterkit/descriptions/reminiscent_create.txt"
+hash = "062c1274d6a3ec18ce83f9b287783d14834cd3caeea169c5e17382ac6fc7d363"
+
+[[files]]
+file = "configureddefaults/config/starterkit/kits/reminiscent_create.txt"
+hash = "c5ef25deaa51bea81be30e80c6dd7881e24326cafae22f94b5105cc16cccfd4a"
+
+[[files]]
 file = "configureddefaults/config/supplementaries-client.toml"
 hash = "6a564ae5bfb4d2c8874ea8492d5ae8b32621d0ca45f77d48ec5677adac209745"
 
@@ -30,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b0e740787c9fd78106f3052bec391127ace8a0297e75734470b3c99f502f11e9"
+hash = "9091ac09b5c7cfb9472940dbcdfdf764d1f903495171dd4b4cd566eb83d8a40b"
 metafile = true
 
 [[files]]
@@ -335,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
-hash = "5c5b6308ed50b6d6a2e4e34f6fd64bf50948572d0ad657aad13496ee98bfd230"
+hash = "09d4a858d529335ad508afecd4c7a728aa2a56bab646166fbac2f8ffb0552063"
 metafile = true
 
 [[files]]
@@ -405,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+hash = "f07ab6e7174e5381c34281c5516936c65328f184c8edb55eda2a65d2b18d2d22"
 metafile = true
 
 [[files]]
@@ -436,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "5562ace4b9b8931b01f839979813d62af44dea6947a246df8ae7dc1761c8b720"
+metafile = true
+
+[[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "ae5ed48aa97aebbb0daac8b58190a465d46ad563a8a154eab028e6f24e88d44e"
 metafile = true
 
 [[files]]
@@ -480,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
 metafile = true
 
 [[files]]
@@ -490,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-samurais.pw.toml"
-hash = "ff1dd4484a97945c614dbf484c9fc4ab88c1a31a23e1dd00502ce9d50707424d"
+hash = "54d857f1333d7f4d8d6fc1a48687fecf1a7b33d2b9d16fd4112b56d315ab399b"
 metafile = true
 
 [[files]]
@@ -599,11 +616,6 @@ hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
-metafile = true
-
-[[files]]
 file = "mods/interiors.pw.toml"
 hash = "08689bd8755129a2470cbf353503cc5d4eb78425da2aa29cb381d4957fd2f48e"
 metafile = true
@@ -700,17 +712,12 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
+hash = "2ac92bd60df1038a79fb3d7383fb593d53aaedbd38ebc57a9ab21b815cabe342"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
-metafile = true
-
-[[files]]
-file = "mods/missions.pw.toml"
-hash = "b2f7fcf19d1b57b0cd255c17d6cf6676975ef211990dec9655edb9e6027ae7d7"
 metafile = true
 
 [[files]]
@@ -730,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9836e452ae6c62dfccd573462e8a2c8bfdc9e03bb7b1d8271fa13dc6275fdfaf"
+hash = "c823b8ecc940de35aaa2ac7bc8e45842f0b130b388e2aa80dd6e4b57a89773aa"
 metafile = true
 
 [[files]]
@@ -765,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "6eaa3bc1eb2601dd68de4debdfe34ade9025af5776a8537278800ce840872f04"
+hash = "450a3ad1e5e953d9d6c1f5ad6278ead01cfe32ea17fe43df70d3cf2a3120ff55"
 metafile = true
 
 [[files]]
@@ -795,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "b53b7e21c4bff864dcdedddce48d2e3566074e51d64ea4d9bf98446bee3ec9fb"
+hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
 metafile = true
 
 [[files]]
@@ -810,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "d216f67d3c4a28449084f6f2a79034a7dc62f861fe9fb48583234c21bbc47e68"
+hash = "606194e572cd05573e9ac9978a2321efe31a1f90d24f8b42daac41734c307626"
 metafile = true
 
 [[files]]
@@ -955,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "4190a2e1e26b1932eed9cc02461d09d12c55f340001dc3b46963e07ea9c1cf4b"
+hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
 metafile = true
 
 [[files]]

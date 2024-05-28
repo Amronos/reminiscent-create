@@ -1,13 +1,13 @@
-name = "Create: Quality Of Life"
-filename = "createqol-1.20.1-1.1-ht1.jar"
+name = "Create: Quality of Life"
+filename = "createqol-1.20.1-1.1-ht2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/hezpkOYP/versions/iArhniwl/createqol-1.20.1-1.1-ht2.jar"
 hash-format = "sha1"
-hash = "019d1afd00b98893a288353b0a730494e4e51c5b"
-mode = "metadata:curseforge"
+hash = "57ee72dff5bbdf20e109344f339e15673b542761"
 
 [update]
-[update.curseforge]
-file-id = 5205507
-project-id = 905508
+[update.modrinth]
+mod-id = "hezpkOYP"
+version = "iArhniwl"

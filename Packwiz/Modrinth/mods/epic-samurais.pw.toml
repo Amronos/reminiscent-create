@@ -1,13 +1,13 @@
 name = "Epic Samurai's - Forge"
-filename = "epicsamurai-0.0.43-1.20.1-neo.jar"
+filename = "epicsamurai-0.0.44-1.20.1-neo.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lMWJDrbO/versions/lrTelxLX/epicsamurai-0.0.43-1.20.1-neo.jar"
+url = "https://cdn.modrinth.com/data/lMWJDrbO/versions/mHJlXvkG/epicsamurai-0.0.44-1.20.1-neo.jar"
 hash-format = "sha1"
-hash = "07ae829906feb707a9b4c05e1ef54a21b3f5c8ce"
+hash = "9a3cbc3be4fe9f923f66915ba54626b6cea822ea"
 
 [update]
 [update.modrinth]
 mod-id = "lMWJDrbO"
-version = "lrTelxLX"
+version = "mHJlXvkG"
